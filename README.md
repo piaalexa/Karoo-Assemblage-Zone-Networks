@@ -1,12 +1,12 @@
-#Karoo Assemblage Zone Networks
+Karoo Assemblage Zone Networks
 
-##Principal Investigator Contact Information
+Principal Investigator Contact Information
 Name: Dr. Pia A. Viglietti
 Institution: Field Museum of Natural History
 Address: Earth Sciences, Negaunee Integrative Research Center, Field Museum of Natural History, 1400 South DuSable Lake Shore Drive, Chicago, IL 60605-2496, USA.
 Email: pviglietti@fieldmuseum.org
 
-###Associate or Co-Investigator Contact Information
+Associate or Co-Investigator Contact Information
 Name: Dr. Kenneth D. Angielczyk
 Institution: Field Museum of Natural History
 Address: Earth Sciences, Negaunee Integrative Research Center, Field Museum of Natural History, 1400 South DuSable Lake Shore Drive, Chicago, IL 60605-2496, USA.
