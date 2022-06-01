@@ -32,14 +32,23 @@ The dataset at the core of this investigations comprises vertebrate fossil speci
 
 5. Variable List 
 Number of variables: 11
+
 Number of cases/rows: 1408
+
 Bin Interval – a stratigraphic interval used for correlation of lithostratigraphy, and fossil specimens at meter level between vertical sections measured at field sites.
+
 Section upper boundary (m) – The upper boundary in meters for a stratigraphic bin interval. 
+
 Accession number – The name of fossil specimen which represents its storage location at a registered repository (ie., SAM-PK-Iziko Museum, Cape Town, BP-Evolutionary Studies Institute, Johannesburg, NMQR, National Museum, Bloemfontein).
+
 Field number – Some specimens include a number given to them when collected in the field and before accessioning in the repository.
+
 Province - A smaller territory that adds up to make a federation, such as the Republic of South Africa. South Africa has nine provinces: Western Cape, Northern Cape, Eastern Cape, Kwa-Zulu Natal, Free State, Northern Province, Gauteng, Mpumalanga and Limpopo.
+
 Study site – The district location within the Province of the study site (i.e., the subdivision of a county or a town).
+
 Farm location – The ranch or farm where the fossil was located. GPS coordinates of these farm locations can be retrieved from the Principal Investigator, or Viglietti et al. 2021.
+
 Superorder, Clade, Genus and Species – Taxonomic rank used in biology to classify groups of biological organisms based on shared characteristics. 
 
 6. Methods for processing the data
