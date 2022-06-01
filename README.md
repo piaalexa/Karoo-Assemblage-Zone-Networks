@@ -1,6 +1,3 @@
-# READ ME Dataset 1
-
-# Dataset 1
 Principal Investigator Contact Information
 Name: Dr. Pia A. Viglietti
 Institution: Field Museum of Natural History
