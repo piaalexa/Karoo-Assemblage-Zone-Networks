@@ -1,0 +1,42 @@
+#READ ME
+
+#Appendix S3
+Principal Investigator Contact Information
+Name: Dr. Pia A. Viglietti
+Institution: Field Museum of Natural History
+Address: Earth Sciences, Negaunee Integrative Research Center, Field Museum of Natural History, 1400 South DuSable Lake Shore Drive, Chicago, IL 60605-2496, USA.
+Email: pviglietti@fieldmuseum.org
+
+Associate or Co-Investigator Contact Information
+Name: Dr. Kenneth D. Angielczyk
+Institution: Field Museum of Natural History
+Address: Earth Sciences, Negaunee Integrative Research Center, Field Museum of Natural History, 1400 South DuSable Lake Shore Drive, Chicago, IL 60605-2496, USA.
+Email: kangielczyk@fieldmuseum.org
+
+3. Date of data collection 
+October 2021.
+
+4. Geographic location of data:
+Chicago, IL, USA.
+
+5. Information about funding sources that supported the collection of the data: 
+Grainger Bioinformatics Center, Field Museum of Natural History.
+Women’s Board, Field Museum of Natural History.
+
+SHARING/ACCESS INFORMATION
+
+1. Licenses/restrictions placed on the data: NA
+
+2. Links to publications that cite or use the data: N/A
+
+METHODOLOGICAL INFORMATION
+
+1. Description of methods used for collection/generation of data: 
+R script for nodelist creation.
+
+2. Methods for processing the data: Microsoft Excel, RStudio, Tidyverse.
+
+3. Instrument- or software-specific information needed to interpret the data: RStudio.
+
+5. People involved with sample collection, processing, analysis and/or submission: 
+Viglietti, Pia A., Rojas, Alexis., Rosvall, Martin., Klimes, Brady., Angielczyk, Kenneth, D.
